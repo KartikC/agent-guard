@@ -1,0 +1,13 @@
+Agent Guard — Step away. Keep agents working.
+
+Drag Agent Guard.app into Applications, then open it there.
+Grant Accessibility and run the 15-second test before indefinite use.
+
+Apple silicon (M-series), macOS 13 or later.
+Touch ID or supported Apple Watch app approval required.
+
+This is an input guard, not the macOS lock screen. The session remains unlocked
+and visible; system gestures, software, remote input and Force Quit can bypass it.
+
+This initial package is ad-hoc signed, not Developer ID signed or notarized.
+macOS may block an internet download. Only approve software you trust.

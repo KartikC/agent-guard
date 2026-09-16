@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+build/
+work/
+*.xcuserstate
+xcuserdata/
+.env
+.env.*
+*.p12
+*.p8
+*.key
+!downloads/*.dmg
