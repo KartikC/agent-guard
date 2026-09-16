@@ -13,7 +13,7 @@ Built for home, trusted coworkers, and those “I need to step away, but the age
   <img src="docs/images/app-dark.png" width="46%" alt="Agent Guard controls in dark appearance">
 </p>
 
-<p align="center"><a href="https://github.com/KartikC/agent-guard/releases/download/v0.2.1/agent-guard-x.mp4"><img src="docs/media/agent-guard-demo.gif" width="640" alt="Agent Guard’s animated glass pill in light and dark mode"></a></p>
+<p align="center"><a href="https://github.com/KartikC/agent-guard/releases/download/v0.2.1/agent-guard-x.mp4"><img src="docs/media/agent-guard-final-6cefdccc.gif" width="640" alt="Agent Guard’s animated glass pill in light and dark mode"></a></p>
 
 ### Why it’s useful
 
