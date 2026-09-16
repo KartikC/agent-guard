@@ -1,6 +1,6 @@
 <p align="center"><img src="Assets/AgentGuard.png" width="112" alt="Agent Guard icon"></p>
 <h1 align="center">Agent Guard</h1>
-<p align="center"><strong>Step away. Keep agents working.</strong></p>
+<p align="center"><strong>made this so my agents can keep going</strong></p>
 <p align="center">A little more peace of mind when your agent needs an unlocked Mac.</p>
 <p align="center"><a href="https://github.com/KartikC/agent-guard/releases/download/v0.2.1/AgentGuard-0.2.1-arm64.dmg">Download for Apple silicon</a> · <a href="docs/QUICKSTART.md">Get started</a> · <a href="docs/media/agent-guard-x.mp4?raw=true">Watch the 6-second demo</a></p>
 
@@ -13,7 +13,7 @@ Built for home, trusted coworkers, and those “I need to step away, but the age
   <img src="docs/images/app-dark.png" width="46%" alt="Agent Guard controls in dark appearance">
 </p>
 
-[![Watch the six-second demo](docs/media/poster.jpg)](https://github.com/KartikC/agent-guard/raw/refs/heads/main/docs/media/agent-guard-x.mp4)
+<p align="center"><a href="https://github.com/KartikC/agent-guard/releases/download/v0.2.1/agent-guard-x.mp4"><img src="docs/media/agent-guard-demo.gif" width="640" alt="Agent Guard’s animated glass pill in light and dark mode"></a></p>
 
 ### Why it’s useful
 
